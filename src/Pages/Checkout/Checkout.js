@@ -1,10 +1,12 @@
 import React, { useContext } from 'react';
-import { useLoaderData } from 'react-router-dom';
+import { useLoaderData, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../contexts/AuthProvider/AuthProvider';
 
 const Checkout = () => {
     const { _id, title, price } = useLoaderData();
     const { user } = useContext(AuthContext)
+
+    const navigate = useNavigate()
 
     const handlePlaceOrder = (event) => {
         event.preventDefault()
@@ -22,11 +24,12 @@ const Checkout = () => {
             phone,
             message
         }
-        fetch(`http://localhost:5000/orders`, {
+        fetch(`https://genius-car-server-omega-five.vercel.app/orders`, {
 
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                authorization: `Bearer ${localStorage.getItem('genius-token')}`
             },
             body: JSON.stringify(order)
         })
@@ -35,7 +38,7 @@ const Checkout = () => {
                 console.log(data)
                 if (data.acknowledged) {
                     alert('Your order done')
-                    form.reset()
+                    navigate('/')
                 }
 
             })

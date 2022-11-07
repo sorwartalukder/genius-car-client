@@ -1,9 +1,10 @@
 import React, { useContext, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import img from '../../assets/images/login/login.svg';
 import { AuthContext } from '../../contexts/AuthProvider/AuthProvider';
 import { FaGoogle } from "react-icons/fa";
 import { GoogleAuthProvider } from 'firebase/auth';
+import { setAuthToken } from '../../api/auth';
 
 const Login = () => {
     const [error, setError] = useState(null)
@@ -11,6 +12,9 @@ const Login = () => {
 
     const googleProvider = new GoogleAuthProvider();
 
+    const location = useLocation();
+    const navigate = useNavigate();
+    const from = location.state?.from?.pathname || '/'
     const handleLogin = event => {
         setError(null)
         event.preventDefault()
@@ -20,8 +24,9 @@ const Login = () => {
         userLogin(email, password)
             .then(result => {
                 const user = result.user;
-                console.log(user)
-                form.reset()
+                setAuthToken(user)
+                navigate(from, { replace: true })
+
             })
             .catch(e => {
                 console.error(e)
@@ -34,7 +39,10 @@ const Login = () => {
             .then((result) => {
                 const user = result.user;
                 console.log(user)
-            }).catch((error) => {
+                setAuthToken(user)
+                navigate(from, { replace: true })
+            })
+            .catch((error) => {
                 console.error(error)
             });
     }
