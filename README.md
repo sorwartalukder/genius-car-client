@@ -1,70 +1,130 @@
-# Getting Started with Create React App
+<!-- important link -->
+<h1>Important Link</h1>
+<a href="https://genius-car-5f0d8.web.app/">live link</a> 
+<br />
+<a href="https://github.com/sorwartalukder/genius-car-server">Server side code link</a> 
+<br />
+<a href="https://sorwar-portfolio.web.app/">Developer Portfolio</a> 
+<br />
+<a href="https://drive.google.com/file/d/1_P_F6B3k6TGiXZJTBDMcrGuK4G_xPKko/view?usp=share_link">Download developer resume</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- use technology -->
+<h1>Use Technology</h1>
+<ol>
+<li>React.js</li>
+<li>Tailwind</li>
+<li>DaisyUI</li>
+<li>React Query</li>
+<li>React Router</li>
+<li>React Hook Form</li>
+<li>React Icons</li>
+<li>React photo view</li>
+<li>Rect hot toast</li>
+<li>Context API</li>
+<li>Express.js</li>
+<li>MongoDB</li>
+<li>Firebase</li>
+<li>JWT</li>
+</ol>
 
-## Available Scripts
+<!-- developer profile -->
+<h1><strong>Developer Profile</strong></h1>
 
-In the project directory, you can run:
+<h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
+<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 
-### `npm start`
+<!-- skills -->
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/react.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/express.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/node.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/css.png"/>
+<img src="https://raw.githubusercontent.com/sorwartalukder/sorwartalukder/main/images/icons/HTML.png"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- about -->
+<h1>About Me</h1>
+<p>MERN Stack Developer || Front-end web developer React.js based
+I am Experienced with React.js, JavaScript, Express.js and MongoDB
+<br />
+<br />
+I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
+<br />
+<br />
+I am expert with JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Express.js, Firebase, MongoDB and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
+<br />
+<br />
+I have worked on many of my projects. Every project is different and works Front-End, Backend and design done by me. I love productive work and try to concentrate as long as I work.
+<br />
+<br />
+I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
+<br />
+<br />
+📧 mdsorwar4039@gmail.com <br />
+⌨️ 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1742554039 <br />
+📞 𝑪𝒂𝒍𝒍 | 𝒎𝒐𝒃𝒊𝒍𝒆: +880 1742554039
+</p>
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- Reach out -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :mailbox: Reach me out
 
-### `npm run build`
+<p align="center">
+    <!-- linkedIN -->
+    <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
+    <img src='https://raw.githubusercontent.com/sorwartalukder/sorwar-portfolio/main/src/assets/Images/Linkedin.png'>
+    </a>
+    <!-- facebook -->
+    <a target="_blank" href="https://www.facebook.com/sorwartalukderr">
+    <img src='https://raw.githubusercontent.com/sorwartalukder/sorwar-portfolio/main/src/assets/Images/Facebook.png'>
+    </a>
+    <!-- twitter -->
+    <a target="_blank" href="https://twitter.com/sorwar_talukder">
+    <img src='https://raw.githubusercontent.com/sorwartalukder/sorwar-portfolio/main/src/assets/Images/Twitter.png'>
+    </a>
+</p>
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- developer life Style -->
+<h1>My life Style</h1>
+<p align="center">
+<!-- 1 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-1.jpg"/>
+<!-- 2 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-2.jpg"/>
+<!-- 3 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-3.jpg"/>
+<!-- 4 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-4.jpg"/>
+<!-- 5 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-5.jpg"/>
+<!-- 6 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-6.jpg"/>
+<!-- 7 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-7.jpg"/>
+<!-- 8 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-8.jpg"/>
+<!-- 9 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-9.jpg"/>
+<!-- 10 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-10.jpg"/>
+<!-- 11 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-11.jpg"/>
+<!-- 12 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-12.jpg"/>
+<!-- 13 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-13.jpg"/>
+<!-- 14 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-14.jpg"/>
+<!-- 15 -->
+<img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-15.jpg"/>
+</p>
+<p align="center"> Last update: Dec 25, 2022</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

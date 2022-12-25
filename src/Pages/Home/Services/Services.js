@@ -15,6 +15,7 @@ const Services = () => {
 
     const handleSearch = () => {
         setSearch(searchRef.current.value)
+        console.log(searchRef.current.value)
     }
 
     return (
